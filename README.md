@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/hariscs/fem-order-summary-component)
+- Live Site URL: [Order summary card](https://fem-order-component.netlify.app/)
 
 ### Built with
 
