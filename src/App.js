@@ -14,7 +14,7 @@ function App() {
 					any device anywhere you like!
 				</p>
 				<div className='plan-container'>
-					<img src={icon} alt='music' />
+					<img src={icon} alt='music' className='icon' />
 					<div className='plan'>
 						<h2 className='time'>Annual Plan</h2>
 						<span className='price'>$59.99/year</span>
