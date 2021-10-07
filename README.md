@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/hariscs/fem-order-summary-component)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/built-with-react-and-css-4rbH42_MG)
 - Live Site URL: [Order summary card](https://fem-order-component.netlify.app/)
 
 ### Built with
